@@ -1,7 +1,7 @@
 # Landslide-susceptibility
 
 # Objective
-Map landslide susceptibility in the Maira valley in sothern Piedmont
+Map landslide susceptibility in the Maira valley in southern Piedmont
 
 # Data
 - Piedmont DTM25
